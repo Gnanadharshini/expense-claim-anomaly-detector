@@ -1,0 +1,11 @@
+amount,frequency,category,label
+500,2,food,0
+700,3,travel,0
+1000,2,food,0
+15000,8,shopping,1
+20000,10,travel,1
+25000,12,shopping,1
+300,1,food,0
+450,2,medical,0
+18000,9,travel,1
+22000,11,shopping,1
