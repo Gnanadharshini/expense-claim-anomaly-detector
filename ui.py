@@ -47,7 +47,7 @@ if st.button("Check Claim"):
     # -----------------------------
 
     response = requests.post(
-        "http://127.0.0.1:8000/predict",
+        "https://expense-api-82o6.onrender.com/predict",
         params={
             "amount": amount,
             "frequency": frequency,
